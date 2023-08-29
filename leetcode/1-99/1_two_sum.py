@@ -11,4 +11,4 @@ def twoSum(nums: List, target: int) -> List[int]:
         
         m[nums[i]] = i
 
-    return None
+    return None # type: ignore
