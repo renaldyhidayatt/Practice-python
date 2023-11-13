@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "basic"
+	},
+	{
+		"path": "leetcode"
+	},
+	{
+		"path": "libs"
+	}
+],
+  "settings": {}
+}
